@@ -14,6 +14,13 @@
 - [Official manual](https://docs.cocos.com/creator3d/manual/en/) - Documentation provided by Cocos team.
 - [API](https://docs.cocos.com/creator3d/api/en/) - Documentation on programming interface.
 
+## Utilities
+
+### DDC tools
+
+- [glTF](https://github.com/KhronosGroup/glTF) - Model file format that are well-supported by Cocos Creator 3D.
+- [Texture Packer](https://www.codeandweb.com/texturepacker) - A texture packing tools.
+
 ## Showcases
 
 ### Examples
