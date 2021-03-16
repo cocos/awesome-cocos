@@ -4,7 +4,7 @@
 
 ⚡️ Delightful Cocos Creator Utilities, Documents and more!
 
-## Sites & Forums
+## Sites & forums
 
 - [Official site](www.cocos.com) - Cocos.
 
@@ -24,11 +24,18 @@
 
 - [Texture Packer](https://www.codeandweb.com/texturepacker) - Texture packing tools.
 
+- [Blender](https://www.blender.org/) - Open source 3D creation. Free to use for any purpose, forever.
+
+- [GIMP](https://www.gimp.org/) - The Free & Open Source Image Editor.
+
+- [MagicaVoxel](https://ephtracy.github.io/) - A free lightweight GPU-based voxel art editor and interactive path tracing renderer.
+
 ### Development Libraries
 
 #### Online Game
 
 - [protobuf.js](https://github.com/protobufjs/protobuf.js/) - Protocol Buffers for JavaScript (& TypeScript).
+- [Pinus](https://github.com/node-pinus/pinus) - A fast, scalable game server framework for node.js (based on [Pomelo](https://github.com/NetEase/pomelo))
 
 ## Showcases
 
@@ -47,10 +54,3 @@ Cocos Creator projects that hosted by excellent users.
 Cocos Creator productions that hosted by excellent users.
 
 <!-- TODO -->
-
-## Learn & Training
-
-### Graphics
-
-- [Learn OpenGL](https://learnopengl.com/) - Might be your first step to computer graphics!
-- [GAMES101](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html) - 现代计算机图形学入门
