@@ -44,7 +44,7 @@
 
 - [Official examples](https://github.com/cocos-creator/example-3d) - Comprehensive examples provided by Cocos team which covers most functions of Cocos creator 3D.
 
-- [Ball demo](https://github.com/cocos-creator/demo-ball) - A jumping ball demo created by Cocos Creator 3D.
+- [Ball demo](https://github.com/cocos-creator/demo-ball) - A jumping ball demo created by Cocos Creator.
 
 ### Awesome projects(Open source)
 
