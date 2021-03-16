@@ -4,7 +4,7 @@
 
 ⚡️ Delightful Cocos Creator Utilities, Documents and more!
 
-## Sites & forums
+## Sites & Forums
 
 - [Official site](www.cocos.com) - Cocos.
 
@@ -47,3 +47,9 @@ Cocos Creator projects that hosted by excellent users.
 Cocos Creator productions that hosted by excellent users.
 
 <!-- TODO -->
+
+## Learn & Training
+
+### Graphics
+
+- [Learn OpenGL](https://learnopengl.com/) - Might be your first step to computer graphics!
