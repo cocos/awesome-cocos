@@ -6,7 +6,7 @@
 
 ## Sites & Forums
 
-- [Official site](www.cocos.com) - Cocos.
+- [Official site](https://www.cocos.com) - Cocos.
 
 - [Official forum](https://forum.cocos.org/) Cocos forum.
 
