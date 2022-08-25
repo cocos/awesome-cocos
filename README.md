@@ -38,9 +38,9 @@
 
 - [MagicaVoxel](https://ephtracy.github.io/) - A free lightweight GPU-based voxel art editor and interactive path tracing renderer.
 
-### Development Libraries
+### Development tools
 
-### Distribution
+#### Distribution
 
 - [Poki](https://store.cocos.com/app/en/detail/3702) - [Poki](https://poki.com/) SDK integration extension for Cocos Creator projects.
 
@@ -50,7 +50,7 @@
 
 - [Playable Ads](https://store.cocos.com/app/en/detail/3754) - Build Cocos Creator projects into Playable Ads format for Facebook, Applovin, Google, IronSource, Mintegral etc.
 
-### Payment
+#### Payment
 
 - [Xsolla](https://store.cocos.com/app/en/detail/3715) - [Xsolla](https://xsolla.com/) SDK integration for Cocos Creator projects.
 
