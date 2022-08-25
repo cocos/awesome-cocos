@@ -2,7 +2,7 @@
 
 # Awesome Cocos Creator [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-⚡️ Delightful Cocos Creator Utilities, Documents and more!
+⚡️ Delightful Cocos Creator show cases, utilities, documents and more!
 
 ## Sites & Forums
 
@@ -72,7 +72,7 @@
 
 <!-- Please add your tools in corresponding categories or add a new category if they don't seem fit -->
 
-## Demos
+## Show cases
 
 ### Example Projects
 
