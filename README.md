@@ -103,7 +103,6 @@ Awesome Cocos Creator projects that hosted by excellent developers.
 Awesome Cocos Creator productions that hosted by excellent developers.
 
 - [Top War](https://www.rivergame.net/) by RiverGame
-- [AFK Arena](https://afkarena.lilith.com/) by Lilith Games
 - [Nano](https://nano.ubisoft.com/) by Ubisoft
 - [种地勇者](https://play.google.com/store/apps/details?id=com.glee.greenhatgp&hl=en_US&gl=US) by MR Glee
 - [蚂蚁进化 3D](https://www.taptap.com/app/211020) by 深圳羽仁科技有限公司
