@@ -106,6 +106,7 @@ Awesome Cocos Creator productions that hosted by excellent developers.
 - [Nano](https://nano.ubisoft.com/) by Ubisoft
 - [种地勇者](https://play.google.com/store/apps/details?id=com.glee.greenhatgp&hl=en_US&gl=US) by MR Glee
 - [蚂蚁进化 3D](https://www.taptap.com/app/211020) by 深圳羽仁科技有限公司
+- [Midea True Space](https://meta.midea.com/) by Midea
 
 <!-- Please add your games or other productions here -->
 
