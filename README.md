@@ -92,6 +92,8 @@
 
 - [Ball demo](https://github.com/cocos/cocos-example-ball) - A physical jumping ball demo.
 
+- [Slash The Hordes](https://github.com/MartinKral/Slash-The-Hordes) - A rouglite game, heavily inspired by Vampire Survivors
+
 ### Awesome projects(Open source)
 
 Awesome Cocos Creator projects that hosted by excellent developers.
