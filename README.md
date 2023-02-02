@@ -96,6 +96,8 @@
 
 Awesome Cocos Creator projects that hosted by excellent developers.
 
+- [Slash The Hordes](https://github.com/MartinKral/Slash-The-Hordes) - A rouglite game, heavily inspired by Vampire Survivors
+
 <!-- Please add your open source project here -->
 
 ### Awesome productions
