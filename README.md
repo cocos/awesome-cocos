@@ -76,6 +76,8 @@
 
 ### Example Projects
 
+- [Cyberpunk Demo](https://store.cocos.com/app/en/detail/4543) - A third person shooting gameplay demo in a cyberpunk style street scene, the enire game and all assets are free. It technically demonstrates customized render pipeline based on render graph, deferred dynamic lighting, image based lighting, and post processes including bloom, taa, fsr, etc.
+
 - [Cartoon vegetation](https://github.com/cocos/cocos-example-cartoon-vegetation) - A demo showing cartoon style graphics on a simple scene with grasses and trees.
 
 - [Marionette animation demo](https://github.com/cocos/cocos-example-marionette) - A demo showing usage of Marionette animation system.
