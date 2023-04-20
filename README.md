@@ -104,6 +104,7 @@ Awesome Cocos Creator projects that hosted by excellent developers.
 
 Awesome Cocos Creator productions that hosted by excellent developers.
 
+- [SSSnaker](https://play.google.com/store/apps/details?id=com.habby.sssnaker&hl=en_US) by Habby
 - [Top War](https://www.rivergame.net/) by RiverGame
 - [Nano](https://nano.ubisoft.com/) by Ubisoft
 - [种地勇者](https://play.google.com/store/apps/details?id=com.glee.greenhatgp&hl=en_US&gl=US) by MR Glee
