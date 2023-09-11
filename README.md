@@ -42,13 +42,25 @@
 
 #### Distribution
 
-- [Poki](https://store.cocos.com/app/en/detail/3702) - [Poki](https://poki.com/) SDK integration extension for Cocos Creator projects.
+- [CrazyGames](https://store.cocos.com/app/en/detail/4953) - [CrazyGames](https://www.crazygames.com/) SDK integration extension for Cocos Creator projects.
 
 - [Game Distribution](https://store.cocos.com/app/en/detail/3320) - [Game Distribution](https://gamedistribution.com/) SDK integration extension for Cocos Creator projects.
+
+- [GamePix](https://store.cocos.com/app/en/detail/5147) - [GamePix](https://www.gamepix.com/) SDK integration extension for Cocos Creator projects.
+
+- [Game Portal](https://store.cocos.com/app/en/detail/4067) - [Game Portal](https://html5gameportal.com/) SDK integration extension for Cocos Creator projects.
 
 - [HUAWEI HMS](https://store.cocos.com/app/en/detail/2412) - Huawei HMS Core SDK integration, including game services, in-app payment services, advertising services, and some account services.
 
 - [Playable Ads](https://store.cocos.com/app/en/detail/3754) - Build Cocos Creator projects into Playable Ads format for Facebook, Applovin, Google, IronSource, Mintegral etc.
+
+- [Poki](https://store.cocos.com/app/en/detail/3702) - [Poki](https://poki.com/) SDK integration extension for Cocos Creator projects.
+
+#### In App Advertisement
+
+- [Google AdSense Extension](https://store.cocos.com/app/detail/4173) - Integration of [Google AdSense](https://adsense.google.com/start/) into your project for web monetization.
+
+- [Google AdMob Extension](https://store.cocos.com/app/detail/5271) - Integration of [Google AdMob](https://admob.google.com/home/) into your project for in app advertisement monetization.
 
 #### Payment
 
