@@ -50,6 +50,8 @@
 
 - [Coconutool](https://store.cocos.com/app/en/detail/3476) by Raykid - A DevTool by Chrome Extension. Used to debug games made by Cocos Creator 3.x. It highly simutates the UI and functions of Cocos Creator 3.x.
 
+- [ccc-devtools](https://github.com/potato47/ccc-devtools) by @potato47 - A debugger tool built into the preview page, it can simultaneously show the hierarchy, components and properties while the game is running, you can also modify any properties of Nodes and Components directly during runtime.
+
 - [CreatorXR](https://store.cocos.com/app/en/detail/4117) by Cocos - Cocos CreatorXR is an XR content authoring tool based on Cocos Creator and Cocos Engine. By supporting the OpenXR standard protocol to smooth the differences between different XR devices, XR project content creation and to provide one stop development experience.
 
 #### Distribution
