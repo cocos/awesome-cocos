@@ -38,7 +38,19 @@
 
 - [MagicaVoxel](https://ephtracy.github.io/) - A free lightweight GPU-based voxel art editor and interactive path tracing renderer.
 
-### Development tools
+### Development tools and services
+
+#### Frameworks and extensions
+
+- [OpenTGX](https://store.cocos.com/app/en/detail/2787) by @MrKylinGithub - A game development solution using typescript for both client and server sides.
+
+- [EasyMenu](https://github.com/iwae/easyMenu) by @iwae - A stylish menu creator using descriptive APIs, supporting FPS monitor, time scale, overdraw debugging, sliders, checkboxes, dropdowns etc.
+
+- [CineStation](https://store.cocos.com/app/en/detail/3422) by gamemcu - Powerful tool to help developers achieve cinematic camera control, it's also useful in first person view or third person view games.
+
+- [Coconutool](https://store.cocos.com/app/en/detail/3476) by Raykid - A DevTool by Chrome Extension. Used to debug games made by Cocos Creator 3.x. It highly simutates the UI and functions of Cocos Creator 3.x.
+
+- [CreatorXR](https://store.cocos.com/app/en/detail/4117) by Cocos - Cocos CreatorXR is an XR content authoring tool based on Cocos Creator and Cocos Engine. By supporting the OpenXR standard protocol to smooth the differences between different XR devices, XR project content creation and to provide one stop development experience.
 
 #### Distribution
 
@@ -89,6 +101,8 @@
 ### Example Projects
 
 - [Cyberpunk Demo](https://store.cocos.com/app/en/detail/4543) - A third person shooting gameplay demo in a cyberpunk style street scene, the enire game and all assets are free. It technically demonstrates customized render pipeline based on render graph, deferred dynamic lighting, image based lighting, and post processes including bloom, taa, fsr, etc.
+
+- [Bounty Hunter](https://store.cocos.com/app/en/detail/5197) - A multiplayer competing game, every player try to collect as much coins as possible, while you can also attack others using items. It demonstates player matching and room management feature Huawei Online Battle.  
 
 - [Cartoon vegetation](https://github.com/cocos/cocos-example-cartoon-vegetation) - A demo showing cartoon style graphics on a simple scene with grasses and trees.
 
